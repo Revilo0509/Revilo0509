@@ -1,3 +1,1 @@
-Hey, I’m @Revilo0509
-- I mostly code in Python and C++ but I know a bit of Lua, Html and CSS
-- My website: revilo0509.net
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
