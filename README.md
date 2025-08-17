@@ -1,5 +1,5 @@
 # Hi! I'm Revilo
-I'm a electionics, homelab and software developer hobbist, I mostly use python but I also know LUA, Html, Css and Javascript. But I have dipped my toes into C++, C# and Java. I also love to play games specially Minecraft.
+I'm a electionics, homelab and software developer hobbist, I mostly use python and c++ but I also know LUA, Html, Css and Javascript. But I have dipped my toes into C# and Java. I also love to play games specially Minecraft.
 
 Also, Check out my website! [revilo0509.net](https://revilo0509.net)
 
