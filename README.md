@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi!
+Hi, I'm Revilo!
+I'm a hobbist coder and homelabber. So I just code and configure stuff for fun XD.
 
 
 ## 🌐 Socials:
